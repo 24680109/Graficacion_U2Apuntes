@@ -1,4 +1,4 @@
-# Graficacion_U2Apuntes
+# Graficación_U2Apuntes
 # Unidad 2: Graficación 2D
 
 ## Introducción
